@@ -1,0 +1,14 @@
+venv/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.pkl
+*.keras
+*.onnx
+__pycache__/
+*.zip
+*.csv
+*.mp4
+*.mp3
+*.wav
