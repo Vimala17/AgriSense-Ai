@@ -1,0 +1,22 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "ignoreWords": [
+    "pycache",
+    "onnx",
+    "pyc",
+    "pkl",
+    "keras",
+    "tensorflow",
+    "numpy",
+    "pandas",
+    "sklearn",
+    "telugu",
+    "cspellrc"
+  ],
+  "ignorePaths": [
+    "node_modules",
+    "__pycache__",
+    "*.egg-info"
+  ]
+}

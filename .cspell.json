@@ -1,0 +1,22 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "mobilenet",
+    "groq",
+    "dotenv",
+    "AgriSense",
+    "preds",
+    "linalg",
+    "opencv",
+    "fert",
+    "Fert"
+  ],
+  "ignoreWords": [],
+  "ignorePaths": [
+    "**/frontend/src/**",
+    "**/backend/**"
+  ],
+  "enableFiletypes": ["typescript", "javascript"],
+  "useGitignore": true
+}
